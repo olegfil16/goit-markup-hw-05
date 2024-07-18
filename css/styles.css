@@ -673,8 +673,6 @@ ul {
   padding-left: 38px;
   outline: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-  color: #fff;
-  cursor: pointer;
 }
 
 .input-modal:hover,
@@ -718,7 +716,7 @@ ul {
   font-size: 12px;
   line-height: 1.17;
   letter-spacing: 0.04em;
-  color: rgba(46, 47, 66, 0.4);
+  color: #ffffff;
 }
 
 .input-text:hover,
